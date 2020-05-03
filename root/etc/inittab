@@ -1,0 +1,3 @@
+::respawn:/usr/local/sbin/php-fpm
+
+::respawn:/usr/sbin/nginx
