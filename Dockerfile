@@ -11,7 +11,7 @@ RUN apk add --no-cache \
             libzip \
             gnu-libiconv \
             nginx \
-            zstd \
+            zstd xz \
     && apk add --no-cache --virtual build-deps \
             libxml2-dev \
             libjpeg-turbo-dev \
